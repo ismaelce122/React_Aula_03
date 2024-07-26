@@ -1,0 +1,25 @@
+.text {
+     width: 100%;
+     max-width: 600px;
+ }
+
+.text h2 {
+     color: #00704a;
+     font-size: 5em;
+     font-weight: 800;
+     text-transform: uppercase;
+ }
+
+.text h2 .style {
+     color: #1b1b1b;
+     text-transform: lowercase;
+     font-weight: 300;
+ }
+
+.text p {
+     color: #1b1b1b;
+     font-weight: 400;
+     font-size: 1em;
+     line-height: 1.3em;
+     margin: 20px 0;
+ }
